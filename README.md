@@ -17,7 +17,7 @@ Mobile
 ![](./images/solution-mobile.jpeg)
 
 Desktop
-![](./images/image-product-desktop.jpg)
+![](./images/solution-desktop.jpeg)
 
 ### Links
 
