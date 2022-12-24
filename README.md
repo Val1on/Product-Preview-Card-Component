@@ -12,10 +12,10 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-###Mobile
+### Mobile
 <img src="images/solution-mobile.jpeg">
 
-###Desktop
+### Desktop
 <img src="images/solution-desktop.jpeg">
 
 ### Links
